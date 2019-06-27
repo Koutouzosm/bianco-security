@@ -1,14 +1,26 @@
 import React from 'react';
+import { Jumbotron, Container } from 'reactstrap';
 
-const Jumbotron = () => {
-    return(
-        <div class="jumbotron jumbotron-fluid">
-  <div class="container">
-    <h1 class="display-4">Bianco Security</h1>
-    <p class="lead"></p>
-  </div>
-</div>
-    )
+
+const jumbostyle = {
+  backgroundImage: `url(${require('./images/biancologo.bmp')})`,
+  backgroundPosition: 'center',
+  backgroundSize: 'contain',
+  backgroundRepeat: 'no-repeat'
 }
 
-export default Jumbotron;
+const Jumbo = () => {
+  return (
+
+    <div>
+      <Jumbotron fluid style={jumbostyle}>
+        <Container fluid>
+          <h1 className="display-3"></h1>
+          <p className="lead"></p>
+        </Container>
+      </Jumbotron>
+    </div>
+  )
+}
+
+export default Jumbo;

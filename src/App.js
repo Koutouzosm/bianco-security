@@ -1,11 +1,17 @@
 import React from 'react';
 import './App.css';
-import Jumbotron from './components/Jumbotron';
+import Jumbo from './components/Jumbotron';
+import Info from './components/Info';
+import Card from './components/Card'
 
 function App() {
   return (
-    <Jumbotron />
+    <React.Fragment>
+      <Jumbo />
+      <Info />
+      <Card />
+    </React.Fragment>
   );
-}
+};
 
 export default App;
