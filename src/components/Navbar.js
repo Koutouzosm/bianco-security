@@ -1,15 +1,26 @@
-import React from 'react';
+// import React from 'react';
+// import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
 
-const Navbar = () => {
-    return (
-        <div className="navbar navbar-light bg-light">
-            <a className="navbar-brand" href="#">
-                <img src="./images/biancologo.bpm" width="30" height="30" className="d-inline-block align-top" alt="">
-                    Bootstrap
-         </a>
-    </div>
 
-            );
-        };
-        
-export default Navbar;
+// const Nav = () => {
+//     return (
+//         <div>
+//           <Navbar color="faded" light>
+//             <NavbarBrand href="/" className="mr-auto">reactstrap</NavbarBrand>
+//             <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
+//             <Collapse isOpen={!this.state.collapsed} navbar>
+//               <Nav navbar>
+//                 <NavItem>
+//                   <NavLink href="/components/">Components</NavLink>
+//                 </NavItem>
+//                 <NavItem>
+//                   <NavLink href="https://github.com/reactstrap/reactstrap">GitHub</NavLink>
+//                 </NavItem>
+//               </Nav>
+//             </Collapse>
+//           </Navbar>
+//         </div>
+//       );
+// };
+                    
+// export default Nav;

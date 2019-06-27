@@ -7,7 +7,7 @@ const Card = () => {
                 <h5 className="card-title">Bianco Security</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Contact Info</h6>
                 <div>
-                    <a href="tel: 1-856-692-4444">Call</a>
+                    <a href="tel: 1-856-692-4444">1-856-692-4444</a>
                 </div>
                 <div>
                     <a href='mailto: Kathleen@biancosecurity.com'>Email</a>

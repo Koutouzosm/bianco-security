@@ -10,9 +10,9 @@ const jumbostyle = {
 }
 
 const Jumbo = () => {
-  return (
+    return(
 
-    <div>
+      <div>
       <Jumbotron fluid style={jumbostyle}>
         <Container fluid>
           <h1 className="display-3"></h1>
@@ -20,7 +20,7 @@ const Jumbo = () => {
         </Container>
       </Jumbotron>
     </div>
-  )
+    )
 }
 
 export default Jumbo;
