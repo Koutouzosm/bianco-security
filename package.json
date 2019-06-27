@@ -2,7 +2,7 @@
   "name": "biancosecurity",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Koutouzosm/bianco_security",
+  "homepage": "https://github.io/Koutouzosm/bianco-security",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
