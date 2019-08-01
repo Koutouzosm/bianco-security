@@ -4,8 +4,8 @@ const Card = () => {
     return (
         <div className="card">
             <div className="card-body text-center">
-                <h5 className="card-title">Bianco Security</h5>
-                <h6 className="card-subtitle mb-2 text-muted">Contact Info</h6>
+                <h5 className="card-title">Home Autimation</h5>
+                <h6 className="card-subtitle mb-2 text-muted">Image here</h6>
                 <div>
                     <a href="tel: 1-856-692-4444">1-856-692-4444</a>
                 </div>
@@ -19,3 +19,4 @@ const Card = () => {
 };
 
 export default Card;
+
