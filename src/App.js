@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Nav from './components/Navbar'
+import Navi from './components/Navbar'
 import Jumbo from './components/Jumbotron';
 import Info from './components/Info';
 import Card from './components/Card'
@@ -8,7 +8,7 @@ import Card from './components/Card'
 function App() {
   return (
     <React.Fragment>
-      {/* <Nav /> */}
+      <Navi />
       <Jumbo />
       <Info />
       <Card />
