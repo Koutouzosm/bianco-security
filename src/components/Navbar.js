@@ -8,8 +8,8 @@ const Navi = () => {
         <div>
           <Navbar color="faded" light>
             <NavbarBrand href="/" className="mr-auto">Bianco Security</NavbarBrand>
-            {/* <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
-            <Collapse isOpen={!this.state.collapsed} navbar> */}
+            <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
+            <Collapse isOpen={!this.state.collapsed} navbar>
               <Nav navbar>
                 <NavItem>
                   <NavLink className="nav-link" to="/">Home</NavLink>
@@ -21,7 +21,7 @@ const Navi = () => {
                   <NavLink className="nav-link" to="/diy">DIY</NavLink>
                 </NavItem>
               </Nav>
-            {/* </Collapse> */}
+            </Collapse>
           </Navbar>
         </div>
       );
