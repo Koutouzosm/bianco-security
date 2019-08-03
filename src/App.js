@@ -1,18 +1,20 @@
-import React from 'react';
-import './App.css';
-import Navi from './components/Navbar'
-import Jumbo from './components/Jumbotron';
-import Info from './components/Info';
-import Card from './components/Card'
+import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Products from "./pages/Products";
+import Home from './pages/Home';
+import DIY from './pages/DIY';
 
 function App() {
   return (
+    <Router>
     <React.Fragment>
-      <Navi />
-      <Jumbo />
-      <Info />
-      <Card />
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/Products" component={Products} />
+        <Route exact path="/DIY" component={DIY} />
+      </Switch>
     </React.Fragment>
+  </Router>
   );
 };
 
