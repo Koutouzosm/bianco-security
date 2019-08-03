@@ -8,6 +8,7 @@ const Navi = () => {
         <div>
           <Navbar color="faded" light>
             <NavbarBrand href="/" className="mr-auto">Bianco Security</NavbarBrand>
+            {/* to toggle navbar */}
             {/* <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
             <Collapse isOpen={!this.state.collapsed} navbar> */}
               <Nav navbar>
