@@ -3,9 +3,9 @@ import { Jumbotron, Container } from 'reactstrap';
 
 
 const jumbostyle = {
-  backgroundImage: `url(${require('./images/biancologo.bmp')})`,
+  backgroundImage: `url(${require('./images/bianco.jpeg')})`,
   backgroundPosition: 'center',
-  backgroundSize: 'contain',
+  backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat'
 }
 
