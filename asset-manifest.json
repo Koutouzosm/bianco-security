@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Koutouzosm/bianco-security/static/css/main.2cce8147.chunk.css",
-    "main.js": "/Koutouzosm/bianco-security/static/js/main.18b48495.chunk.js",
-    "main.js.map": "/Koutouzosm/bianco-security/static/js/main.18b48495.chunk.js.map",
+    "main.css": "/Koutouzosm/bianco-security/static/css/main.34de6062.chunk.css",
+    "main.js": "/Koutouzosm/bianco-security/static/js/main.289d1437.chunk.js",
+    "main.js.map": "/Koutouzosm/bianco-security/static/js/main.289d1437.chunk.js.map",
     "runtime~main.js": "/Koutouzosm/bianco-security/static/js/runtime~main.35935d00.js",
     "runtime~main.js.map": "/Koutouzosm/bianco-security/static/js/runtime~main.35935d00.js.map",
-    "static/js/2.b41502e9.chunk.js": "/Koutouzosm/bianco-security/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/Koutouzosm/bianco-security/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.f58477b9.chunk.js": "/Koutouzosm/bianco-security/static/js/2.f58477b9.chunk.js",
+    "static/js/2.f58477b9.chunk.js.map": "/Koutouzosm/bianco-security/static/js/2.f58477b9.chunk.js.map",
     "index.html": "/Koutouzosm/bianco-security/index.html",
-    "precache-manifest.505010949836b9ed3f2acae564d536c4.js": "/Koutouzosm/bianco-security/precache-manifest.505010949836b9ed3f2acae564d536c4.js",
+    "precache-manifest.ed092dc2914dc8dd4173db3c7ec33875.js": "/Koutouzosm/bianco-security/precache-manifest.ed092dc2914dc8dd4173db3c7ec33875.js",
     "service-worker.js": "/Koutouzosm/bianco-security/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/Koutouzosm/bianco-security/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/Koutouzosm/bianco-security/static/media/logo.5d5d9eef.svg"
+    "static/css/main.34de6062.chunk.css.map": "/Koutouzosm/bianco-security/static/css/main.34de6062.chunk.css.map",
+    "static/media/biancologo.bmp": "/Koutouzosm/bianco-security/static/media/biancologo.506cec56.bmp"
   }
 }

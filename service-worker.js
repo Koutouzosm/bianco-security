@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Koutouzosm/bianco-security/precache-manifest.505010949836b9ed3f2acae564d536c4.js"
+  "/Koutouzosm/bianco-security/precache-manifest.ed092dc2914dc8dd4173db3c7ec33875.js"
 );
 
 self.addEventListener('message', (event) => {
