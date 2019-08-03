@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Navi from './components/Navbar'
+import Navi from '../components/Navbar'
 
 
 class Products extends Component {

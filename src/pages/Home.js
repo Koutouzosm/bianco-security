@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Navi from './components/Navbar'
-import Jumbo from './components/Jumbotron';
-import Info from './components/Info';
-import Card from './components/Card'
+import Navi from '../components/Navbar'
+import Jumbo from '../components/Jumbotron';
+import Info from '../components/Info';
+import Card from '../components/Card';
 
 
 class Home extends Component {
@@ -12,8 +12,8 @@ class Home extends Component {
             <React.Fragment>
                 <Navi />
                 <Jumbo />
-                <Card />
                 <Info />
+                <Card />
             </React.Fragment>
         )
     }
